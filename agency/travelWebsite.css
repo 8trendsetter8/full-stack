@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(29, 20, 20);
+    color: white;
+    margin: 0;
+    width: auto;
+    height: 4000px;
+}
+
+.div {
+    align-content: center;
+    width: auto;
+    height: auto;
+    border: 10px;
+    margin: 40px 20px;
+    text-align: center;
+}
+
+#button {
+    align-content: center;
+}
+
+/*.div_2 {
+    position: relative;
+    width: auto;
+    height: 300px;
+    border: 10px;
+    margin: 20px 20px;
+}*/
+
+h1 {
+    background-color: rgb(29, 20, 20);
+    color: white;
+    text-align: center;
+    margin: 50px auto;
+    padding: 5px;
+}
+
+h3 {
+    text-align: center;
+    padding: 30px auto;
+    margin: 30px;
+}
+
+tr {
+    align-items: center;
+    border: 3px solid red;
+    padding: 30px;
+    margin: 20px auto;
+}
+th {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    margin: 50px;
+    text-align: center;
+    border: 3px solid red;
+}
+
+td {
+    background-color: grey;
+    color: black;
+    padding: 10px 20px;
+    margin: 40px;
+    padding: 50px 30px;
+    text-align: center;
+    border: 3px solid red;
+}
+
+.paragraph_3 {
+    text-align: center;
+    color: red;
+    padding: 3px 10px;
+    background-color: grey;
+    margin: auto;
+}
+
+.paragraph {
+    text-align: center;
+    color: red;
+    padding: 10px 20px 10px 20px;
+    margin: 20px 40px 20px 40px;
+    border: 3px solid red;
+}
+
+table {
+    align-items: center;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+caption {
+    color: red;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.link {
+    color: white;
+}
